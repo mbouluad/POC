@@ -8,14 +8,14 @@
   <meta name="author" content="">
   <link rel="icon" href="images/favicon.ico">
 
-  <title>HelloWorld Client</title>
+  <title>Collaborateurs</title>
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="css/helloworld.css" rel="stylesheet">
 </head>
 <body>
   <div class="container">
     <div class="page-header">
-      <h1>HelloWorld Client</h1>      
+      <h1>Collaborateurs</h1>      
     </div>
     <div id="loading">
       <p>Chargement des informations depuis le serveur en cours ...</p>
@@ -30,9 +30,9 @@
           <h3 class="panel-title">Formulaire</h3>
         </div>
         <div class="panel-body">
-          <p>Veuillez saisir un message de Bienvenu.</p>
+          <p>Veuillez saisir le nom et prénom.</p>
           <div class="form-group">
-            <label for="forhelloworldmessage" class="col-sm-3 control-label">Message*</label>
+            <label for="forhelloworldmessage" class="col-sm-3 control-label">Nom et Prénom*</label>
             <div class="col-sm-9">
               <input type="text" class="form-control" id="forhelloworldmessage" required>
               <div class="help-block with-errors"></div>
@@ -41,13 +41,13 @@
         </div>
       </div> 
       <div id="servererror"></div>
-      <button type="submit" class="btn btn-default">Envoyer message</button>
+      <button type="submit" class="btn btn-default">Enregistrer </button>
 
     </form>
     <br/>
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Liste des messages</h3>
+        <h3 class="panel-title">Liste des collaborateurs</h3>
       </div>
       <div class="panel-body">
         <div class="table-responsive">
@@ -56,7 +56,7 @@
             <thead>
               <tr>
                 <th width="33%">Id</th>
-                <th width="33%">Message</th>
+                <th width="33%">Nom etPrénom</th>
                 <th width="34%">Date</th>
               </tr>
             </thead>
@@ -73,11 +73,6 @@
   </div>
 </div>
 <br/>
-<footer class="footer">
-  <div class="container">
-    <p class="text-muted"><center>Mickael BARON - Cours SOA - Microservices</center></p>
-  </div>
-</footer>
 <script src="lib/jquery/jquery.min.js"></script>
 <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 <script src="lib/bootstrap-validator/validator.min.js"></script>

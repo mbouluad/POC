@@ -5,9 +5,6 @@ import java.util.Set;
 
 import javax.ws.rs.ApplicationPath;
 
-/**
- * @author Mickael BARON
- */
 @ApplicationPath("/")
 public class HelloWorldApplication extends javax.ws.rs.core.Application {
 
