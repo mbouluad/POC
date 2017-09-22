@@ -1,0 +1,12 @@
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/event/rabbitmq/RabbitMQFactory.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/dao/redis/BeanUtil.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/service/CrossDomainFilter.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/service/HelloWorldResource.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/dao/redis/Keys.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/dao/redis/HelloWorldDAORedisImpl.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/service/HelloWorldApplication.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/model/HelloWorld.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/dao/redis/JedisFactory.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/event/rabbitmq/HelloWorldEventProducer.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/event/IHelloWorldEventProducer.java
+/home/mbouluad/workspace/microservices/helloworldmicroservices/helloworldrestmicroservice/src/main/java/fr/helloworldrestmicroservice/dao/IHelloWorldDAO.java

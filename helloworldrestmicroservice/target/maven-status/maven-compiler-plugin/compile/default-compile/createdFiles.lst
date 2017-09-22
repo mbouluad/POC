@@ -1,0 +1,12 @@
+fr/helloworldrestmicroservice/model/HelloWorld.class
+fr/helloworldrestmicroservice/dao/redis/Keys.class
+fr/helloworldrestmicroservice/service/HelloWorldResource.class
+fr/helloworldrestmicroservice/dao/redis/HelloWorldDAORedisImpl.class
+fr/helloworldrestmicroservice/service/CrossDomainFilter.class
+fr/helloworldrestmicroservice/dao/redis/JedisFactory.class
+fr/helloworldrestmicroservice/dao/redis/BeanUtil.class
+fr/helloworldrestmicroservice/dao/IHelloWorldDAO.class
+fr/helloworldrestmicroservice/service/HelloWorldApplication.class
+fr/helloworldrestmicroservice/event/rabbitmq/RabbitMQFactory.class
+fr/helloworldrestmicroservice/event/IHelloWorldEventProducer.class
+fr/helloworldrestmicroservice/event/rabbitmq/HelloWorldEventProducer.class
